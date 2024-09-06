@@ -3,6 +3,6 @@ Me n Mewo btw
 </p>
 <p align="center">
   
-![1000035898](https://github.com/user-attachments/assets/267dfc8d-c457-427d-8d51-57e79088a71d)
-  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a0825ab-da10-4b55-8c8c-2e5683235052"/>
 </p>
