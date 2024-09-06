@@ -4,5 +4,5 @@ Me n Mewo btw
 <p align="center">
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a0825ab-da10-4b55-8c8c-2e5683235052"/>
+  <img src="https://github.com/user-attachments/assets/860bec0b-36dc-4858-af0f-d61f6550fd55"/>
 </p>
